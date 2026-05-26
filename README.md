@@ -60,7 +60,7 @@
                 STOCK MARKET <span class="text-accentGold">MASTERY</span>
             </span>
         </div>
-        <a href="#pricing" class="bg-transparent hover:bg-accentGold hover:text-darkBg border border-accentGold text-accentGold font-bold px-5 py-2 rounded-lg transition duration-300 text-sm tracking-wide">
+        <a href="https://payhip.com/buy?link=6mit3" class="bg-transparent hover:bg-accentGold hover:text-darkBg border border-accentGold text-accentGold font-bold px-5 py-2 rounded-lg transition duration-300 text-sm tracking-wide">
             Enroll Now
         </a>
     </header>
